@@ -1,4 +1,4 @@
-from turtle import width
+
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from django_project.sales.models import Item
 from utils.others.uniq_filter import get_unique_types
